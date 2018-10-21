@@ -11,5 +11,5 @@ Docker 镜像搜索：doudoubing/cundang
 
 客户端： android Actinium、windows v2ray 可用同一个服务端。
 
-youtube频道：https://www.youtube.com/channel/UClceV39J1Z_9D4_mHkBZrMg
+
 
